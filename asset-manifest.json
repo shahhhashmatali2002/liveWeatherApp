@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/liveWeatherApp/static/css/main.f21e9769.chunk.css",
+    "main.js": "/liveWeatherApp/static/js/main.4ce83d4a.chunk.js",
+    "main.js.map": "/liveWeatherApp/static/js/main.4ce83d4a.chunk.js.map",
+    "runtime~main.js": "/liveWeatherApp/static/js/runtime~main.ce5eac24.js",
+    "runtime~main.js.map": "/liveWeatherApp/static/js/runtime~main.ce5eac24.js.map",
+    "static/css/2.ba238490.chunk.css": "/liveWeatherApp/static/css/2.ba238490.chunk.css",
+    "static/js/2.da359ce6.chunk.js": "/liveWeatherApp/static/js/2.da359ce6.chunk.js",
+    "static/js/2.da359ce6.chunk.js.map": "/liveWeatherApp/static/js/2.da359ce6.chunk.js.map",
+    "index.html": "/liveWeatherApp/index.html",
+    "precache-manifest.d24789d288238ed94c78f7c503513875.js": "/liveWeatherApp/precache-manifest.d24789d288238ed94c78f7c503513875.js",
+    "service-worker.js": "/liveWeatherApp/service-worker.js",
+    "static/css/2.ba238490.chunk.css.map": "/liveWeatherApp/static/css/2.ba238490.chunk.css.map",
+    "static/css/main.f21e9769.chunk.css.map": "/liveWeatherApp/static/css/main.f21e9769.chunk.css.map",
+    "static/media/weather-icons.css": "/liveWeatherApp/static/media/weathericons-regular-webfont.f5b0d0d9.woff"
+  }
+}
