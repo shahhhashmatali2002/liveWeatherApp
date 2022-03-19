@@ -1,5 +1,6 @@
 {
   "name": "react-start",
+  "homepage": "http://shahhhashmatali2002/liveWeatherApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
